@@ -5,17 +5,17 @@ Projekt pri Programiranju 1, v katerem bom raziskala odvisnosti med številom ig
 ## Zajeti podatki
 Za vsako igro bom zajela naslednje podatke:
 
-*ime
-*zvrst
-*cena (v dolarjih)
-*ocena
-*število igralcev
-*razvijalec
+* ime
+* zvrst
+* cena (v dolarjih)
+* ocena
+* število igralcev
+* razvijalec
 
 Vsi podatki bodo zajeti na strani [Steamspy](http://steamspy.com/).
 
 ##Analiza:
 
-*korelacija med ceno in številom igralcev
-*katera firma ustvari najbolj igrane igre in katerega žanra so?
-*ali so drage igre res najboljše (korelacija med ceno in oceno)?
+* korelacija med ceno in številom igralcev
+* katera firma ustvari najbolj igrane igre in katerega žanra so?
+* ali so drage igre res najboljše (korelacija med ceno in oceno)?
