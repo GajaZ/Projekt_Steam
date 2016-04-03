@@ -14,7 +14,9 @@ Za vsako igro bom zajela naslednje podatke:
 
 Vsi podatki bodo zajeti na strani [Steamspy](http://steamspy.com/).
 
-##Analiza:
+##Analiza
+
+Z zajetimi podatki bom poskušala analizirati in odgovoriti na naslednja vprašanja:
 
 * korelacija med ceno in številom igralcev
 * katera firma ustvari najbolj igrane igre in katerega žanra so?
