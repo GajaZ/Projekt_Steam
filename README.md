@@ -12,4 +12,10 @@ Za vsako igro bom zajela naslednje podatke:
 *število igralcev
 *razvijalec
 
-Vsi podatki bodo zajeti na strani Steamspy
+Vsi podatki bodo zajeti na strani [Steamspy](http://steamspy.com/).
+
+##Analiza:
+
+*korelacija med ceno in številom igralcev
+*katera firma ustvari najbolj igrane igre in katerega žanra so?
+*ali so drage igre res najboljše (korelacija med ceno in oceno)?
